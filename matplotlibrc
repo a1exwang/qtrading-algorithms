@@ -1,0 +1,2 @@
+figure.dpi  : 200
+savefig.dpi : 100  # to avoid large graphics when saving, 
